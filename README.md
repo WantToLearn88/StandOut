@@ -7,3 +7,6 @@ Join the conversation at http://forum.xda-developers.com/showthread.php?t=168853
 
 ### Support or Contact
 Feel free to send messages or questions to markwei@gmail.com.
+
+###Anathor source code 
+https://github.com/urunimi/android-standout?tab=readme-ov-file
